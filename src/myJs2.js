@@ -1,1 +1,0 @@
-hello. THis is my js 2.
